@@ -5,7 +5,6 @@
     color: white;
     display: inline-block;
     max-width: 80%;
-    box-shadow: 0 2rem 5rem rgba(0,0,0,.1);
   }
   
   .messageText {
@@ -64,5 +63,5 @@
   }
   
   .backgroundLight {
-    background: #F3F3F3;
+    background: white;
   }
